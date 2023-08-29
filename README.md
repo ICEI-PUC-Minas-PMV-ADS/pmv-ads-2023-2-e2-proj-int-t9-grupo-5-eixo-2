@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-Analise e Desenvolvimento de Sistemas - ADS
+'Analise e Desenvolvimento de Sistemas - ADS'
 
-Projeto: Desenvolvimento de uma Aplicação Interativa
+'Projeto: Desenvolvimento de uma Aplicação Interativa'
 
-2° Eixo
+'2° Eixo'
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
