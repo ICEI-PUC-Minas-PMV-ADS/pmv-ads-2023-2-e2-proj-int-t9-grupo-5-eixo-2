@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+Analise e Desenvolvimento de Sistemas - ADS
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+2° Eixo
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel De Costa Souza
+* Joao Leonarda De Oliveira Bicalho
+* Lucas Di Vito Fraga
+* Siderley Tadeu Rosa De Oliveira Luciano
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 
