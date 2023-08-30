@@ -16,16 +16,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Criar um sistema interativo e intuitivo para rastrear e localizar produtos e insumos rapidamente armazenados dentro de um estoque.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+## Problema
+
+O problema que este projeto visa solucionar é a falta de organização de estoque, onde empresas que até possuem algum tipo de controle de entrada e saída de produtos e insumos, mas não sabem a localização exata de onde estão armazenados e acabam perdendo tempo tentando rastreá-los sem alguma uma forma mais eficiente de fazer este processo.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A organização é algo essencial para melhorar a entrega da equipe, quanto maior o nível de organização mais eficiente é a entrega, pois o processo flui mais facilmente. Levando para o âmbito empresarial, uma maior organização melhora desde a experiência do trabalhador até o cliente final, pois dificilmente um produto irá sumir ou será difícil de encontrar dentro da empresa caso for acompanhado durante todo o processo, desde o pedido até a entrega do pedido.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
@@ -34,8 +33,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Empresários donos de empresas de pequeno porte com grandes dificuldades de crescer devida a falta de organização do estoque de seus empreendimentos. 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
