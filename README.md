@@ -6,10 +6,11 @@
 
 ## 2° Eixo 
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Estamos desenvolvendo um sistema interativo, intuitivo e eficiente para localizar produtos e insumos.
 
 ## Integrantes
 
+* Alexande Figueredo Camargo
 * Gabriel De Costa Souza
 * Joao Leonarda De Oliveira Bicalho
 * Lucas Di Vito Fraga
