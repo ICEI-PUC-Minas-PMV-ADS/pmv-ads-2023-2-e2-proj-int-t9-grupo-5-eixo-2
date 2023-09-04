@@ -187,25 +187,32 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O usuário poderá inventariar os produtos.(de forma q seja possivel contar os items sempre que nescessario) | ALTA | 
-|RF-002| O usuário poderá notificado| MÉDIA |
-|RF-003| Filtros e subfiltros| MÉDIA |
-|RF-004| pesquisa de itens| MÉDIA |
-|RF-005| O usuário poderá inserir, editar e excluir cadastros de produtos.| ALTA |
-|RF-006| pode criar agendamento para realização de tarefascado| MÉDIA |
-|RF-007| pode criar agendamento para realização de tarefascado| MÉDIA |
+| ID     | Descrição do Requisito                                                                                      | Prioridade |
+|--------|-------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | O usuário poderá inventariar os produtos.(de forma q seja possivel contar os items sempre que nescessario)  | ALTA       | 
+| RF-002 | O usuário poderá notificado                                                                                 | MÉDIA      |
+| RF-003 | Filtros e subfiltros                                                                                        | MÉDIA      |
+| RF-004 | Pesquisa de itens                                                                                           | MÉDIA      |
+| RF-005 | O usuário poderá inserir, editar e excluir cadastros de produtos.                                           | ALTA       |
+| RF-006 | Pode criar agendamento para realização de tarefas                                                           | MÉDIA      |
+| RF-007 | login com conta gmail (SSO)                                                                                 | BAIXA      |
+| RF-008 | Site responsivo (pode ser aberto em mobile)                                                                 | ALTA       |
+| RF-009 | Opção para convidar e recomendar pessoas                                                                    | BAIXA      |
+| RF-010 | Chatbot para auto atendimento                                                                               | BAIXA      |
 
 ## Requisitos não funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| É importante que o sistema possa acessar rapidamente o conteúdo disponibilizado para fornecer informações atualizadas sobre equipamentos, materiais e tarefas agendadas | ALTA| 
-|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
-|RNF-003| Deve ser seguro | ALTA| 
-|RNF-004| A aplicação deve ficar disponível 24 horas, 7 dias por semana |  BAIXA | 
-|RNF-005| O sistema pode ser acessado qualquer computador com conexão de internet de 3Mbps ou superior | MEDIA | 
+| ID      | Descrição do Requisito                                                                                                                                                  | Prioridade |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001 | É importante que o sistema possa acessar rapidamente o conteúdo disponibilizado para fornecer informações atualizadas sobre equipamentos, materiais e tarefas agendadas | ALTA       | 
+| RNF-002 | Deve processar requisições do usuário em no máximo 5s                                                                                                                   | BAIXA      | 
+| RNF-003 | Securitização de portal de usuarios com login                                                                                                                           | ALTA       | 
+| RNF-004 | A aplicação deve ficar disponível 24 horas, 7 dias por semana                                                                                                           | BAIXA      | 
+| RNF-005 | Securitizar apis (bff/be) com OpenAPI                                                                                                                                   | ALTA       | 
+| RNF-006 | Conexāo com certificado SSL valido e TLS 1.2                                                                                                                            | ALTA       | 
+| RNF-007 | O sistema pode ser acessado qualquer computador com conexão de internet de 5Mbps ou superior                                                                            | MEDIA      |
+| RNF-008 | Gerar um servicõ serverless e evitar administrar servidores aonde possivel                                                                                              | MEDIA      |
+
 ## Diagrama de Casos de Uso
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
