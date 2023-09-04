@@ -185,20 +185,27 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+## Requisitos Funcionais
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| O usuário poderá inventariar os produtos.(de forma q seja possivel contar os items sempre que nescessario) | ALTA | 
+|RF-002| O usuário poderá notificado| MÉDIA |
+|RF-003| Filtros e subfiltros| MÉDIA |
+|RF-004| pesquisa de itens| MÉDIA |
+|RF-005| O usuário poderá inserir, editar e excluir cadastros de produtos.| ALTA |
+|RF-006| pode criar agendamento para realização de tarefascado| MÉDIA |
+|RF-007| pode criar agendamento para realização de tarefascado| MÉDIA |
 
+## Requisitos não funcionais
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| É importante que o sistema possa acessar rapidamente o conteúdo disponibilizado para fornecer informações atualizadas sobre equipamentos, materiais e tarefas agendadas | ALTA| 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-003| Deve ser seguro | ALTA| 
+|RNF-004| A aplicação deve ficar disponível 24 horas, 7 dias por semana |  BAIXA | 
+|RNF-005| O sistema pode ser acessado qualquer computador com conexão de internet de 3Mbps ou superior | MEDIA | 
 ## Diagrama de Casos de Uso
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
