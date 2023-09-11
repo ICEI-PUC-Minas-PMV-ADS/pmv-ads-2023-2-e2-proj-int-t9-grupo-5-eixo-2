@@ -5,10 +5,6 @@
   Por outro lado, quando não há esta organização, o impacto das perdas pode surpreender negativamente. Pois encontrar produtos e insumos armazenados em grandes estoques pode se tornar uma dor de cabeça e tanto para gestores e profissionais de empresas que não possuem um sistema eficaz, capaz de rastrear itens armazenados e alocados de maneiras organizadas e padronizadas.
 
 
-## Problema
-  Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-
 ## Objetivos
 
   Criar um sistema interativo e intuitivo para rastrear e localizar produtos e insumos rapidamente armazenados dentro de um estoque.
