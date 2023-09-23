@@ -48,13 +48,17 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+A distribuição de tarefas da equipe está sendo organizada no GitHub Project, que se encontra estruturado nos seguintes tópicos:
+
+- `Backlog`: Todas as atividades a serem realizadas em uma determinada sprint.
+- `Todo`: Atividades, relacionadas a uma determinada sprint, que estão prontas para serem desenvolvidas.
+- `In Progress`: Atividades, de uma determinada sprint, que atualmente estão em desenvolvimento.
+- `Problems`: Problemas e bugs encontrados que precisam ser resolvidos.
+- `Reviews`: Atividades que precisam ser revisadas conforme apontado pelo orientador.
+- `Done`: Atividades prontas.
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-grupo-5-eixo-2/assets/98063900/4fa3a0ae-2245-4ad6-8e16-0e5f777cb406)
+
 
 ### Ferramentas
 
