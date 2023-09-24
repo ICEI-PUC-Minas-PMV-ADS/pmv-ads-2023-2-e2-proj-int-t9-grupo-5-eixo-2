@@ -2,8 +2,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-
 | **Caso de Teste** | **CT-01 - Inventariar os produtos** |
+|:---:	|:---:	|
 | Requisito Associado | RF-001 - O usuário poderá inventariar os produtos.(de forma q seja possivel contar os items sempre que nescessario). |
 | Objetivo do Teste | Verificar se o usuário consege inventariar produtos |
 | Passos | - Acessar o navegador <br> - Fornecer informações do produto <br> - Clicar para registrar produto <br> |
