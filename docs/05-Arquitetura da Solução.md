@@ -6,12 +6,14 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-grupo-5-eixo-2/assets/80500257/c84668fe-6201-47e9-a0d6-5d3998d91713)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
+Neste diagrama:
+- SistemaGerenciamento: é a classe principal que possui métodos para adicionar, remover, modificar e buscar itens no estoque, bem como para gerenciar funcionários.
+- EstoqueItem: representa os itens do estoque e armazena informações como nome, data de entrada, data de saída, quantidade e validade. Existem métodos getters e setters para cada atributo.
+- Funcionario: representa informações sobre os funcionários, como nome e cargo. Também possui métodos getters e setters para os atributos.
 
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+Observação: Na classe ‘’EstoqueItem’’ também possui três atributos adicionais: ‘’adicionadoPor’’, ‘’removidoPor’’ e ‘’modificadoPor’’, que representam os funcionários que adicionaram, removeram ou modificaram o item no estoque.Essas associações ajudam a rastrear qual funcionário realizou cada ação no estoque.
 
 ## Modelo ER (Projeto Conceitual)
 
