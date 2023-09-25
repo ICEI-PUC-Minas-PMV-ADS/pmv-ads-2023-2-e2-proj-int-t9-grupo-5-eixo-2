@@ -17,13 +17,12 @@ Observação: Na classe ‘’EstoqueItem’’ também possui três atributos a
 
 ## Modelo ER (Projeto Conceitual)
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
+![img_2.png](img_2.png)
 
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
-
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+Principais entidades:
+- Usuarios: contem as informações básicas e necessárias para prenchimento de telas de perfil e administração, bem como relações para atividades tais como roles e estado.
+- Itens: Core para gestāo de inventário, bem como entender o histórico e estado atual dos mesmos.
+- Atividades: históricos, consultas, estados.
 
 ## Projeto da Base de Dados
 
